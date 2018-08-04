@@ -1,0 +1,6 @@
+node_modules/
+*_lock
+mySqlConfig.js
+
+oldQuery.sql
+initSQL.js

@@ -1,0 +1,18 @@
+{
+  "name": "bd_pwr",
+  "version": "1.0.0",
+  "description": "projekt na kurs bazy danych PWR",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony-async-await index.js"
+  },
+  "author": "Krzysztof Sobolewski",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.5",
+    "promise-mysql": "^3.2.1"
+  }
+}

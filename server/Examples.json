@@ -1,0 +1,33 @@
+
+    ---------------------------------------------------
+    -------=======     JSONs to POST     =======-------
+    ---------------------------------------------------
+
+    workers:
+{
+    "imie": "Marcin",
+    "nazwisko":"Sobolewski",
+    "data_urodzenia": "1996-04-30",
+    "plec":"m",
+    "stanowisko_id": 3
+}
+
+    depts:
+{
+	"nazwa":"Logistyka"
+}
+
+    jobs:
+{
+  "nazwa_stanowiska":  "Monter",
+  "stawka_godz" :      21,
+  "godz_rozpoczecia_naliczania_oplaty": "6:30:00",
+  "godz_zakonczenia_naliczania_oplaty":"23:00:00" ,
+  "dzial_id"  : "1"
+}
+
+    entries:
+{
+  "We_Wy": "Wy",
+  "pracownik_id": 6
+}
