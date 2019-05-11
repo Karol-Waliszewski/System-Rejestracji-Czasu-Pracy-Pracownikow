@@ -10,8 +10,7 @@ const router = express.Router();
  * 201 - Created
  * 400 - Empty JSON - bad request
  * 409 - Conflict - SQL Error - Wrong json
- *
- *  *406 - ONLY IN ENTRIES TABLE - if worker tries to get in or out 2 times in a row
+ * 406 - ONLY IN ENTRIES TABLE - if worker tries to get in or out 2 times in a row
  *
  * DELETE status:
  * 200 - OK
