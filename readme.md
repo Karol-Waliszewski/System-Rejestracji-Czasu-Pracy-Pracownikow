@@ -1,6 +1,6 @@
 # System Rejestracji Czasu Pracy Pracowników
 
-> Strona ma zliczać czas jaki przepracował dany pracownik korzystając z bazy danych MySql.
+> Projekt stworzony z przyjacielem w ramach zadania na studiach. System zlicza przepracowane godziny danej osoby, a następnie wylicza należne mu wynagrodzenie. Klient bazuje na Vue, serwer na Node.js,a baza danych, to mySQL.
 
 ## Screenshoty 🖼️
 
